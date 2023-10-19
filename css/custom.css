@@ -56,3 +56,13 @@
   -ms-transform: scale(0.5);
   -o-transform: scale(0.5);
 }
+
+#newPost.newpost {
+  font-size: 24px;
+}
+
+
+.recent-post-info .newPost {
+  font-size: 15px !important; /* 修改为您想要的字体大小 */
+}
+
